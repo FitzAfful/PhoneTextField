@@ -1,0 +1,6 @@
+framework module PhoneTextField {
+  umbrella header "PhoneTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
