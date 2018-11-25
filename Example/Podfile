@@ -1,5 +1,8 @@
 use_frameworks!
 
+
+inhibit_all_warnings!
+
 target 'PhoneTextField_Example' do
   pod 'PhoneTextField', :path => '../'
 
